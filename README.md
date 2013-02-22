@@ -1,6 +1,6 @@
 Digitaler_Postmaterialismus
 ===========================
 
-Bachelorthesis 
-Lino Teuteberg
+Bachelorthesis von
+Lino Teuteberg,
 2013, Fachhochschule Potsdam
