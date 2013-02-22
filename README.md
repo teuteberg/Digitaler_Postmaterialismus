@@ -3,6 +3,4 @@ Digitaler_Postmaterialismus
 
 Bachelorthesis 
 Lino Teuteberg
-2013
-
-Fachhochschule Potsdam
+2013, Fachhochschule Potsdam
