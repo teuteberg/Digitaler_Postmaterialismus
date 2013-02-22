@@ -40,26 +40,34 @@ p{
 	padding-left: 0.0000%;
 	padding-right: 0.0000%;
 	text-align: left;
-	text-decoration: none;
 	text-indent: 0.0000%;
 	text-transform: none;
 }
 .s4{
-	font-size: 112.5000%;
-	font-weight: bold;
-	letter-spacing: 0.0529em;
+	font-size: 81.2500%;
 }
 .s5{
-	font-weight: bold;
-	letter-spacing: 0.0529em;
+	color: #000000;
+	font-size: 75.0000%;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	letter-spacing: 0.0000em;
+	margin-bottom: 0.0000%;
+	margin-top: 0.0000%;
+	padding-left: 0.0000%;
+	padding-right: 0.0000%;
+	text-align: left;
+	text-decoration: none;
+	text-indent: 0.0000%;
+	text-transform: none;
 }
 .s6{
 	letter-spacing: 0.0529em;
 }
 .s7{
+	font-weight: bold;
 	letter-spacing: 0.0529em;
-	padding-left: 3.7374%;
-	text-indent: -3.7374%;
 }
 .s8{
 	text-decoration: underline;
@@ -80,91 +88,87 @@ p{
 }
 .c1{
 	color: #000099;
+	letter-spacing: 0.0375em;
 	text-decoration: underline;
 }
 .c2{
-	letter-spacing: 0.0000em;
-	padding-right: 0.6%;
+	letter-spacing: 0.0375em;
 }
 .c3{
-	color: #000099;
-	letter-spacing: 0.0375em;
-	text-decoration: underline;
-}
-.c4{
-	letter-spacing: 0.0375em;
-}
-.c5{
 	font-weight: normal;
 }
-.c6{
+.c4{
 	font-style: italic;
 	letter-spacing: 0.0053em;
 }
-.c7{
+.c5{
 	color: #000099;
 	letter-spacing: 0.0118em;
 	text-decoration: underline;
 }
-.c8{
+.c6{
+	color: #000099;
+	text-decoration: underline;
+}
+.c7{
 	letter-spacing: 0.0158em;
 }
-.c9{
+.c8{
 	color: #CA4220;
 	letter-spacing: 0.0118em;
 }
-.c10{
+.c9{
 	font-style: italic;
 }
-.c11{
+.c10{
 	color: #CA4220;
 }
+.c11{
+	text-decoration: none;
+}
 .c12{
+	color: #CA4220;
+	letter-spacing: 0.0118em;
 	text-decoration: none;
 }
 .c13{
-	color: #CA4220;
-	letter-spacing: 0.0118em;
-	text-decoration: none;
-}
-.c14{
 	letter-spacing: -0.0053em;
 }
-.c15{
+.c14{
 	color: #1A1A1A;
 }
-.c16{
+.c15{
 	letter-spacing: 0.0158em;
 	text-decoration: none;
 }
-.c17{
+.c16{
 	font-style: normal;
+}
+.c17{
+	color: #000000;
+	font-style: normal;
+	font-weight: bold;
+	letter-spacing: 0.0412em;
 }
 .c18{
 	color: #000000;
 	font-style: normal;
-	font-weight: bold;
-	letter-spacing: 0.0412em;
 }
 .c19{
-	color: #000000;
-	font-style: normal;
-}
-.c20{
 	font-weight: bold;
 	letter-spacing: 0.0412em;
 }
-.c21{
+.c20{
 	color: #000099;
 	font-style: italic;
 	text-decoration: underline;
 }
-.c22{
+.c21{
 	font-style: normal;
 	font-weight: bold;
 	letter-spacing: 0.0412em;
 }
-.c23{
+.c22{
 	color: #CA4220;
 	font-style: italic;
 }
