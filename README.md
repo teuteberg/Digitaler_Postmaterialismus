@@ -1,6 +1,6 @@
 Digitaler_Postmaterialismus
 ===========================
 
-Bachelorthesis von
-Lino Teuteberg,
-2013, Fachhochschule Potsdam
+  Bachelorthesis<br />
+  Studiengang Interfacedesign<br />
+  Fachhochschule Potsdam, 2013<br />
